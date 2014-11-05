@@ -1,0 +1,1 @@
+python "Python Qr Code.py"
